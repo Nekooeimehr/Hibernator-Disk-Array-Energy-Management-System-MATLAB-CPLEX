@@ -1,1 +1,3 @@
 # Hibernator-Disk-Array-Energy-Management-System-MATLAB-CPLEX
+
+Implementation of Hibernator (Qingbo Zhu, et al 2005), "a disk array energy management system that provides improved energy savings while meeting performance goals. Hibernator combines a number of techniques to achieve this: the use of disks that can spin at different speeds, a coarse-grained approach for dynamically deciding which disks should spin at which speeds, efficient ways to migrate the right data to an appropriate-speed disk automatically, and automatic performance boosts if there is a risk that performance goals might not be met due to disk energy management."
