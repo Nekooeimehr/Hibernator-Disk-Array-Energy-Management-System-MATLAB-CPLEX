@@ -10,7 +10,7 @@ J = 3; % speeds (Off - Low Speed - High Speed)
 Rlimit = 1000 * 0.001; % msec response time limit
 Tepoch = 30 * 60 ; % min epoch length
 
-% The speed of the disks in the previous run, 10 Random integers between 1 and 10
+% The speed of the disks in the previous run, 10 Random integers between 1 and 3
 % 1 Off 
 % 2 Low Speed
 % 3 High speed
